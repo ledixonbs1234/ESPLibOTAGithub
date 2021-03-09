@@ -1,0 +1,1 @@
+void connect_wifi(char* ssid,char* password);
